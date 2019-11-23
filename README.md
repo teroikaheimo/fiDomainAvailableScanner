@@ -6,7 +6,7 @@ Simple program used to check .FI domain availability from a given list.
 
 ## Installation
 In the terminal of your choosing
-1. Run 'git clone <repository address>'
+1. Run 'git clone repoURL'
 2. Run in the root folder of the project 'npm install'
 
 ## Usage
