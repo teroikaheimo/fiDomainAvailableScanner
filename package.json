@@ -1,0 +1,15 @@
+{
+  "name": "FiDomainAvailableScanner",
+  "version": "0.0.1",
+  "description": "Used to check if a .FI domain is free to register. Just add domains to be checked to the file the program generates and run with 'node app.js' ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Tero Ikäheimo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "form-data": "^3.0.0"
+  }
+}
