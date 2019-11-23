@@ -1,5 +1,5 @@
 # fiDomainAvailableScanner
-Simple program used to check .FI domain availability from a given list.
+I needed a way to check multiple .FI domain names availability fast so this program was the answer to that.
 
 ## Needed to run:
 - Node(tested on v10.15.3)
