@@ -14,6 +14,6 @@ In the terminal of your choosing
 2. Add domains you want to search to the generated text file(follow the prompt)
 3. Run 'npm start' to search those names;
 
-###NOTE! 
+### NOTE! 
 The application will APPEND the results to the results file after every search. 
 So remove the old file if earlier results are not needed;
