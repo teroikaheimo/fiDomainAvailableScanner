@@ -90,7 +90,7 @@ function readSearchTable() {
     console.log("Reading search table...");
     searchTable = fs.readFileSync('searchTable.txt', 'utf8');
     searchTable = searchTable.split(EOL);
-    limit = searchTable.length-1; // -1 because there is a empty row at the end of the text file.
+    limit = searchTable.length;
     console.log("Search Table Read!")
   } catch (err) {
     console.error(err)
