@@ -5,9 +5,9 @@ Simple program used to check .FI domain availability from a given list.
 - Node(tested on v10.15.3)
 
 ##Installation
-In the terminal of your choosing.
-1. git clone <repository address>
-2. npm -i
+In the terminal of your choosing
+1. Run 'git clone <repository address>'
+2. Run in the root folder of the project 'npm install'
 
 ##Usage
 1. Run in the project root folder 'npm start'
