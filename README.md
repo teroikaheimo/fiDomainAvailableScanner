@@ -16,4 +16,4 @@ In the terminal of your choosing
 
 ### NOTE! 
 The application will APPEND the results to the results file after every search. 
-So remove the old file if earlier results are not needed;
+So remove the old file if earlier results are not needed.
